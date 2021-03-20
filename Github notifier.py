@@ -11,4 +11,4 @@ if __name__ == "__main__":
 
         )
     
-  // We can use while loop to set the timer.
+  # We can use while loop to set the timer.
